@@ -7,18 +7,5 @@
  hello git and vim
  hello git and vim
  hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
- hello git and vim
+ hello git and vim   master
  hello git and vim
